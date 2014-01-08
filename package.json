@@ -32,7 +32,7 @@
   "dependencies": {
     "async": ">= 0.1.21",
     "request": "2.9.x",
-    "node-gyp": "~0.8.2",
+    "node-gyp": "https://github.com/nodegit/nodegit/tarball/master",
     "tar": "0.1.17",
     "fs-extra": "0.6.0"
   },
